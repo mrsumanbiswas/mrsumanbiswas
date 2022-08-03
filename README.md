@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsumanbiswas
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via gmail -> dizzytechnician@gmail.com
 
