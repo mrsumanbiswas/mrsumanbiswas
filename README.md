@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Suman Biswas
+- 👋 Hi, I, Suman Biswas, am a High School Developer.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C language
-- I'm a highschool student
+- 🌱 I’m currently learning C, C++, Go, Python, TypeScript, JavaScript, HTML, CSS and meny more.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me via ->  [email](dizzytechnician@gmail.com) or [linkedin](https://www.linkedin.com/in/mrsumanbiswas)
 
