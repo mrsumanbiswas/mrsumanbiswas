@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mrsumanbiswas
+- 👋 Hi, I’m Suman Biswas
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
+- I'm a highschool student
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me via ->  [email](dizzytechnician@gmail.com) or [linkedin](https://www.linkedin.com/in/mrsumanbiswas)
 
 <!---
