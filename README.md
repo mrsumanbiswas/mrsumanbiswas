@@ -21,6 +21,7 @@
 [![HTML5](https://skillicons.dev/icons?theme=dark&i=html)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=html)
 [![CSS3](https://skillicons.dev/icons?theme=dark&i=css)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=css)
 [![scss](https://skillicons.dev/icons?theme=dark&i=scss)](https://github.com/mrsumanbiswas?tab=repositories&language=scss)
+[![bootstrap](https://skillicons.dev/icons?theme=dark&i=bootstrap)](https://github.com/mrsumanbiswas?tab=repositories&language=bootstrap)
 [![JAVASCRIPT](https://skillicons.dev/icons?theme=dark&i=javascript)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=javascript)
 [![TYPESCRIPT](https://skillicons.dev/icons?theme=dark&i=typescript)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=typescript)
 
@@ -28,27 +29,33 @@
 [![cpp](https://skillicons.dev/icons?theme=dark&i=cpp)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=cpp)
 [![go](https://skillicons.dev/icons?theme=dark&i=go)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=go)
 [![python](https://skillicons.dev/icons?theme=dark&i=python)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=python)
-
+[![nodejs](https://skillicons.dev/icons?theme=dark&i=nodejs)](https://github.com/mrsumanbiswas?tab=repositories&q=nodejs)
 
 [![angular](https://skillicons.dev/icons?theme=dark&i=angular)](https://github.com/mrsumanbiswas?tab=repositories&q=angular)
 [![react](https://skillicons.dev/icons?theme=dark&i=react)](https://github.com/mrsumanbiswas?tab=repositories&q=react)
 [![django](https://skillicons.dev/icons?theme=dark&i=django)](https://github.com/mrsumanbiswas?tab=repositories&q=django)
 [![flask](https://skillicons.dev/icons?theme=dark&i=flask)](https://github.com/mrsumanbiswas?tab=repositories&q=flask)
 
+
+[![mysql](https://skillicons.dev/icons?theme=dark&i=mysql)](https://github.com/mrsumanbiswas?tab=repositories&q=mysql)
+[![sqlite](https://skillicons.dev/icons?theme=dark&i=sqlite)](https://github.com/mrsumanbiswas?tab=repositories&q=sqlite)
 [![mongodb](https://skillicons.dev/icons?theme=dark&i=mongodb)](https://github.com/mrsumanbiswas?tab=repositories&q=mongodb)
-[![nodejs](https://skillicons.dev/icons?theme=dark&i=nodejs)](https://github.com/mrsumanbiswas?tab=repositories&q=nodejs)
 
 
 
 
+[![nginx](https://skillicons.dev/icons?theme=dark&i=nginx)](https://github.com/mrsumanbiswas?tab=repositories&q=nginx)
 [![gcp](https://skillicons.dev/icons?theme=dark&i=gcp)](https://github.com/mrsumanbiswas?tab=repositories&q=gcp)
 [![firebase](https://skillicons.dev/icons?theme=dark&i=firebase)](https://github.com/mrsumanbiswas?tab=repositories&q=firebase)
 [![heroku](https://skillicons.dev/icons?theme=dark&i=heroku)](https://github.com/mrsumanbiswas?tab=repositories&q=heroku)
 
 
 [![linux](https://skillicons.dev/icons?theme=dark&i=linux)](https://github.com/mrsumanbiswas?tab=repositories&q=linux)
-[![bash](https://skillicons.dev/icons?theme=dark&i=bash)](https://github.com/mrsumanbiswas?tab=repositories&q=bash)
 [![raspberrypi](https://skillicons.dev/icons?theme=dark&i=raspberrypi)](https://github.com/mrsumanbiswas?tab=repositories&q=raspberrypi)
+
+[![bash](https://skillicons.dev/icons?theme=dark&i=bash)](https://github.com/mrsumanbiswas?tab=repositories&q=bash)
+[![powershell](https://skillicons.dev/icons?theme=dark&i=powershell)](https://github.com/mrsumanbiswas?tab=repositories&q=powershell)
+[![cmake](https://skillicons.dev/icons?theme=dark&i=cmake)](https://github.com/mrsumanbiswas?tab=repositories&q=cmake)
 
 [![vim](https://skillicons.dev/icons?theme=dark&i=vim)](https://github.com/mrsumanbiswas?tab=repositories&q=vim)
 [![vscode](https://skillicons.dev/icons?theme=dark&i=vscode)](https://github.com/mrsumanbiswas?tab=repositories&q=vscode)
