@@ -9,7 +9,7 @@
 <br>
 
 ## 📫 How to reach me    
-[![github](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/in/mrsumanbiswas)
+[![github](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/mrsumanbiswas)
 [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mrsumanbiswas)
 [![twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/mrsumanbiswas0)
 
