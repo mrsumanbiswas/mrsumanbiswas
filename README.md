@@ -27,6 +27,7 @@
 
 [![c](https://skillicons.dev/icons?theme=dark&i=c)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=c)
 [![cpp](https://skillicons.dev/icons?theme=dark&i=cpp)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=cpp)
+[![rust](https://skillicons.dev/icons?theme=dark&i=rust)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=rust)
 [![go](https://skillicons.dev/icons?theme=dark&i=go)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=go)
 [![python](https://skillicons.dev/icons?theme=dark&i=python)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=python)
 [![nodejs](https://skillicons.dev/icons?theme=dark&i=nodejs)](https://github.com/mrsumanbiswas?tab=repositories&q=nodejs)
@@ -35,6 +36,9 @@
 [![react](https://skillicons.dev/icons?theme=dark&i=react)](https://github.com/mrsumanbiswas?tab=repositories&q=react)
 [![django](https://skillicons.dev/icons?theme=dark&i=django)](https://github.com/mrsumanbiswas?tab=repositories&q=django)
 [![flask](https://skillicons.dev/icons?theme=dark&i=flask)](https://github.com/mrsumanbiswas?tab=repositories&q=flask)
+[![rocket](https://skillicons.dev/icons?theme=dark&i=rocket)](https://github.com/mrsumanbiswas?tab=repositories&q=rocket)
+[![actix](https://skillicons.dev/icons?theme=dark&i=actix)](https://github.com/mrsumanbiswas?tab=repositories&q=actix)
+
 
 
 [![mysql](https://skillicons.dev/icons?theme=dark&i=mysql)](https://github.com/mrsumanbiswas?tab=repositories&q=mysql)
