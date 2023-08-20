@@ -44,7 +44,7 @@
 [![mysql](https://skillicons.dev/icons?theme=dark&i=mysql)](https://github.com/mrsumanbiswas?tab=repositories&q=mysql)
 [![sqlite](https://skillicons.dev/icons?theme=dark&i=sqlite)](https://github.com/mrsumanbiswas?tab=repositories&q=sqlite)
 [![mongodb](https://skillicons.dev/icons?theme=dark&i=mongodb)](https://github.com/mrsumanbiswas?tab=repositories&q=mongodb)
-
+[![postgres](https://skillicons.dev/icons?theme=dark&i=postgres)](https://github.com/mrsumanbiswas?tab=repositories&q=postgres)
 
 
 
