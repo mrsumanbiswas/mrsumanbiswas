@@ -19,6 +19,8 @@
 
 ## 🌱 Skills
 [![HTML5](https://skillicons.dev/icons?theme=dark&i=html)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=html)
+[![LaTex](https://skillicons.dev/icons?theme=dark&i=latex)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=latex)
+[![Markdown](https://skillicons.dev/icons?theme=dark&i=md)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=markdown)
 [![CSS3](https://skillicons.dev/icons?theme=dark&i=css)](https://github.com/mrsumanbiswas?tab=repositories&q=&type=&language=css)
 [![scss](https://skillicons.dev/icons?theme=dark&i=scss)](https://github.com/mrsumanbiswas?tab=repositories&language=scss)
 [![bootstrap](https://skillicons.dev/icons?theme=dark&i=bootstrap)](https://github.com/mrsumanbiswas?tab=repositories&language=bootstrap)
