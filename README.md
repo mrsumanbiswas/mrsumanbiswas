@@ -60,6 +60,7 @@
 [![raspberrypi](https://skillicons.dev/icons?theme=dark&i=raspberrypi)](https://github.com/mrsumanbiswas?tab=repositories&q=raspberrypi)
 [![docker](https://skillicons.dev/icons?theme=dark&i=docker)](https://github.com/mrsumanbiswas?tab=repositories&q=docker)
 [![gitlab](https://skillicons.dev/icons?theme=dark&i=gitlab)](https://github.com/mrsumanbiswas?tab=repositories&q=gitlab)
+[![ansible](https://skillicons.dev/icons?theme=dark&i=ansible)](https://github.com/mrsumanbiswas?tab=repositories&q=ansible)
 
 [![bash](https://skillicons.dev/icons?theme=dark&i=bash)](https://github.com/mrsumanbiswas?tab=repositories&q=bash)
 [![powershell](https://skillicons.dev/icons?theme=dark&i=powershell)](https://github.com/mrsumanbiswas?tab=repositories&q=powershell)
